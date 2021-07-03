@@ -1,0 +1,25 @@
+.navbar-home {
+	background-color:red;
+	border: none;
+	border-radius: 0px;
+	margin-bottom: 0px;
+
+}
+.carousel {
+	height: 550px;
+}
+}
+.About-Pizza {
+
+margin-top: 3rem;
+margin-bottom: 2rem;
+}
+.Pizza-type {
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+.footer1 {
+	background-color: red;
+	padding: 1.5rem;
+	color: white;
+}
